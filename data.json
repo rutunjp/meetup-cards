@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Jatin Patel",
+    "twt": "http://localhost:3001/",
+    "li": "http://localhost:3001/",
+    "www": "http://localhost:3001/",
+    "designation": "Karta-Dharta",
+    "company": "Dhum Dhadaka Band",
+    "event": "Chor Bazaar 3.0",
+    "notes": ""
+  },
+  {
+    "name": "John Smith",
+    "twt": "http://example.com/",
+    "li": "http://example.com/",
+    "www": "http://example.com/",
+    "designation": "Developer",
+    "company": "ABC Corporation",
+    "event": "Tech Conference",
+    "notes": ""
+  },
+  {
+    "name": "Jane Doe",
+    "twt": "http://example.com/",
+    "li": "http://example.com/",
+    "www": "http://example.com/",
+    "designation": "Product Manager",
+    "company": "XYZ Inc.",
+    "event": "Product Launch",
+    "notes": ""
+  },
+  {
+    "name": "Michael Johnson",
+    "twt": "http://example.com/",
+    "li": "http://example.com/",
+    "www": "http://example.com/",
+    "designation": "Marketing Specialist",
+    "company": "123 Marketing Agency",
+    "event": "Marketing Conference",
+    "notes": ""
+  },
+  {
+    "name": "Emily Brown",
+    "twt": "http://example.com/",
+    "li": "http://example.com/",
+    "www": "http://example.com/",
+    "designation": "Graphic Designer",
+    "company": "Design Co.",
+    "event": "Design Exhibition",
+    "notes": ""
+  },
+  {
+    "name": "Daniel Wilson",
+    "twt": "http://example.com/",
+    "li": "http://example.com/",
+    "www": "http://example.com/",
+    "designation": "Sales Manager",
+    "company": "Sales Corp",
+    "event": "Sales Summit",
+    "notes": ""
+  },
+  {
+    "name": "Sophia Thompson",
+    "twt": "http://example.com/",
+    "li": "http://example.com/",
+    "www": "http://example.com/",
+    "designation": "HR Specialist",
+    "company": "HR Solutions",
+    "event": "HR Conference",
+    "notes": ""
+  },
+  {
+    "name": "Alexander Garcia",
+    "twt": "http://example.com/",
+    "li": "http://example.com/",
+    "www": "http://example.com/",
+    "designation": "Financial Analyst",
+    "company": "Finance Corp",
+    "event": "Finance Seminar",
+    "notes": ""
+  },
+  {
+    "name": "Olivia Davis",
+    "twt": "http://example.com/",
+    "li": "http://example.com/",
+    "www": "http://example.com/",
+    "designation": "Research Scientist",
+    "company": "Science Lab",
+    "event": "Research Symposium",
+    "notes": ""
+  },
+  {
+    "name": "William Thompson",
+    "twt": "http://example.com/",
+    "li": "http://example.com/",
+    "www": "http://example.com/",
+    "designation": "Project Manager",
+    "company": "Tech Solutions",
+    "event": "Tech Summit",
+    "notes": ""
+  }
+]
