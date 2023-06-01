@@ -1,6 +1,6 @@
 {
   "name": "meetup-card",
-  "short_name": "App",
+  "short_name": "meetup-card",
   "icons": [
     {
       "src": "/myqr.png",
