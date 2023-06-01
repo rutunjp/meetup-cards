@@ -2,6 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
 }
+
 const withPWA = require('next-pwa')({
   dest: 'public',
 })
